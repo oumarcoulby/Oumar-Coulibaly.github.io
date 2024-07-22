@@ -1,0 +1,40 @@
+# Ignorer les répertoires système
+.DS_Store
+Thumbs.db
+.Trash
+
+# Ignorer les fichiers de configuration de l'éditeur
+.vscode/
+.idea/
+
+# Ignorer les répertoires utilisateur de Windows
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+
+# Ignorer les fichiers spécifiques à l'utilisateur
+.android/
+.emulator_console_auth_token
+.git-for-windows-updater
+.gitconfig
+.gnutls/
+.gradle/
+.jdks/
+.lesshst
+.vscode/
+
+# Ignorer les fichiers temporaires et de sauvegarde
+*~
+*.tmp
+*.bak
+*.swp
